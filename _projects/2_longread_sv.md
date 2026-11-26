@@ -8,8 +8,8 @@ category: Neuropathy genomics
 ---
 
 <figure style="float: left; width: 40%; max-width: 300px; margin: 0.3rem 1.5rem 1rem 0;">
-  <img src="{{ '/assets/img/projects/detail/2_longread_sv.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="A PacBio SMRT Cell, the chip that holds the DNA molecules during HiFi sequencing.">
-  <figcaption class="caption text-left">A PacBio SMRT Cell, the chip that holds the DNA molecules during HiFi sequencing.<br><small>Image: Owlmonkey, <a href="https://commons.wikimedia.org/wiki/File:SequelSmrtCell.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>, CC BY-SA 4.0.</small></figcaption>
+  <img src="{{ '/assets/img/projects/detail/2_longread_sv.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="A SMRT Cell for the PacBio Sequel sequencer: single DNA molecules are read in the wells of a chip like this one. Illustration only, not from this study.">
+  <figcaption class="caption text-left">A SMRT Cell for the PacBio Sequel sequencer: single DNA molecules are read in the wells of a chip like this one. Illustration only, not from this study.<br><small>Image: Owlmonkey, <a href="https://commons.wikimedia.org/wiki/File:SequelSmrtCell.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>, CC BY-SA 4.0, cropped.</small></figcaption>
 </figure>
 
 Some families keep their diagnosis open after short-read genome sequencing because the cause sits where 150-base reads cannot reach: inside long repeats, segmental duplications, inversions and complex rearrangements, or in a change to DNA methylation rather than sequence. For one CMT family that short-read sequencing could not solve, the lab generated PacBio HiFi and Oxford Nanopore genomes, and I analysed them on NCI Gadi.
