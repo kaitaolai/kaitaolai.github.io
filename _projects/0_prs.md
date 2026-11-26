@@ -8,8 +8,8 @@ category: Neuropathy genomics
 ---
 
 <figure style="float: left; width: 40%; max-width: 300px; margin: 0.3rem 1.5rem 1rem 0;">
-  <img src="{{ '/assets/img/projects/detail/0_prs.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Walter and Eliza Hall Institute, Melbourne, home of the collaborating statistical genetics group.">
-  <figcaption class="caption text-left">Walter and Eliza Hall Institute, Melbourne, home of the collaborating statistical genetics group.<br><small>Image: Schutz, <a href="https://commons.wikimedia.org/wiki/File:WEHI-side.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>, CC BY-SA 4.0.</small></figcaption>
+  <img src="{{ '/assets/img/projects/detail/0_prs.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Polygenic score and the within-family question">
+  <figcaption class="caption text-left">The question in one picture: a polygenic score sums many small common-variant effects; relatives who share the same causal variant can sit at different points of its distribution. Schematic.</figcaption>
 </figure>
 
 Inherited peripheral neuropathies such as Charcot-Marie-Tooth disease (CMT), distal hereditary motor neuropathy (dHMN) and hereditary sensory neuropathy (HSN) are usually caused by a variant in a single gene. Yet people who carry the same variant, even within one family, can differ widely in age at onset and in severity. This MRFF-funded pilot asks whether common variation, summarised as polygenic scores, explains part of that spread. It is a collaboration between Prof. Marina Kennerson's group at the ANZAC Research Institute and Prof. Melanie Bahlo and Dr. Vicki Jackson (Statistical Genetics, Walter and Eliza Hall Institute, Melbourne). I run the genomics and the analysis.

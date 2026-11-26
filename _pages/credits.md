@@ -27,15 +27,9 @@ Cropped and resized; each links to its Commons page with the full licence.
 
 | Used for | Image | Author | Licence |
 |---|---|---|---|
-| project card: Polygenic risk in inherited neuropathy | [DNA microarray chip.jpg](https://commons.wikimedia.org/wiki/File:DNA_microarray_chip.jpg) | ErikAbner | CC BY 4.0 |
-| project page: Polygenic risk in inherited neuropathy | [WEHI-side.jpg](https://commons.wikimedia.org/wiki/File:WEHI-side.jpg) | Schutz | CC BY-SA 4.0 |
-| project card: SV calling in neuropathy genomes | [CSIRO ScienceImage 11313 The CSIRO GPU cluster at the data centre.jpg](https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_11313_The_CSIRO_GPU_cluster_at_the_data_centre.jpg) | division, CSIRO | CC BY 3.0 |
-| project page: SV calling in neuropathy genomes | [National Computational Infrastructure Building, Canberra, 2022, 03.jpg](https://commons.wikimedia.org/wiki/File:National_Computational_Infrastructure_Building,_Canberra,_2022,_03.jpg) | Kgbo | CC BY-SA 4.0 |
 | project card: Long-read SVs in an unsolved family | [MinION portable sequencer.png](https://commons.wikimedia.org/wiki/File:MinION_portable_sequencer.png) | Mongan A.E. | CC BY 4.0 |
-| project page: Long-read SVs in an unsolved family | [SequelSmrtCell.jpg](https://commons.wikimedia.org/wiki/File:SequelSmrtCell.jpg) | Owlmonkey | CC BY-SA 4.0 |
 | project card: PNPrank | [1318b Dorsal Root Ganglion.jpg](https://commons.wikimedia.org/wiki/File:1318b_Dorsal_Root_Ganglion.jpg) | OpenStax | CC BY 4.0 |
 | project card: PNPAtlas | [Peripheral nerve, cross section.jpg](https://commons.wikimedia.org/wiki/File:Peripheral_nerve,_cross_section.jpg) | unknown | CC BY-SA 3.0 |
-| project page: PNPAtlas | [SFEC-2012-EXP-DOG-SPINAL GANGLION-H&E007.JPG](https://commons.wikimedia.org/wiki/File:SFEC-2012-EXP-DOG-SPINAL_GANGLION-H%26E007.JPG) | Merlin-UK | CC BY-SA 3.0 |
 | project card: AMRScan | [Antibiotic sensitivity testing.jpg](https://commons.wikimedia.org/wiki/File:Antibiotic_sensitivity_testing.jpg) | Bondarev.gal | CC BY 4.0 |
 | project page: AMRScan | [Lactose fermenting colonies of Escherichia coli.jpg](https://commons.wikimedia.org/wiki/File:Lactose_fermenting_colonies_of_Escherichia_coli.jpg) | Ajay Kumar Chaurasiya | CC0 |
 | project card: Germline NGS panel validation | [Illumina MiSeq sequencer.jpg](https://commons.wikimedia.org/wiki/File:Illumina_MiSeq_sequencer.jpg) | Konrad Förstner | CC0 |
@@ -73,6 +67,10 @@ Cropped and resized; each links to its Commons page with the full licence.
 | Losses in microbial functional diversity reduce the rate of key soil processes | [Soil Profile Containing an Argillic Horizon.jpg](https://commons.wikimedia.org/wiki/File:Soil_Profile_Containing_an_Argillic_Horizon.jpg) | Cjrufe | CC0 |
 | Identifying genetic diversity of avirulence genes in Leptosphaeria maculans usin | [BlacklegLeafLesions.jpg](https://commons.wikimedia.org/wiki/File:BlacklegLeafLesions.jpg) | unknown | CC BY 4.0 |
 | Novel and rare variants in amyotrophic lateral sclerosis genes identified in Mal | [Blue leopards of the spinal cord.jpg](https://commons.wikimedia.org/wiki/File:Blue_leopards_of_the_spinal_cord.jpg) | Yurvik55 | CC BY 4.0 |
+
+## Own figures
+
+The schematics on the projects pages, the PNPrank result figure and the PNPAtlas screenshot are my own work.
 
 ## Repository images
 

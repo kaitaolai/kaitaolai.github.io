@@ -8,8 +8,8 @@ category: Neuropathy genomics
 ---
 
 <figure style="float: left; width: 40%; max-width: 300px; margin: 0.3rem 1.5rem 1rem 0;">
-  <img src="{{ '/assets/img/projects/detail/1_mrff_sv.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="The National Computational Infrastructure, Canberra, home of the Gadi supercomputer.">
-  <figcaption class="caption text-left">The National Computational Infrastructure, Canberra, home of the Gadi supercomputer.<br><small>Image: Kgbo, <a href="https://commons.wikimedia.org/wiki/File:National_Computational_Infrastructure_Building,_Canberra,_2022,_03.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>, CC BY-SA 4.0.</small></figcaption>
+  <img src="{{ '/assets/img/projects/detail/1_mrff_sv.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Workflow from raw reads to candidate structural variants">
+  <figcaption class="caption text-left">The workflow, from raw reads on the university data store to filtered candidate structural variants and back.</figcaption>
 </figure>
 
 Families with inherited peripheral neuropathy (Charcot-Marie-Tooth disease and related disorders) whose genetic cause is still unknown were whole-genome sequenced under an MRFF grant at the ANZAC Research Institute. Many of them are likely to carry a variant that short-read pipelines tuned for single-nucleotide changes miss: a deletion, duplication, inversion or insertion of hundreds to millions of bases.
