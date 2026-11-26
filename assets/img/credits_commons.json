@@ -24,14 +24,6 @@
   "url": "https://commons.wikimedia.org/wiki/File:Agarplate_redbloodcells_edit.jpg"
  },
  {
-  "key": "jiang2024deep",
-  "kind": "pub",
-  "title": "File:Liquid chromatograph with a mass spectrometer operating on the principle of flight time in combination with a quadrupole analyzer (qTOF) in CAFIA laboratory, Czech Republic.jpg",
-  "artist": "Sarka Na kopci",
-  "license": "CC BY-SA 4.0",
-  "url": "https://commons.wikimedia.org/wiki/File:Liquid_chromatograph_with_a_mass_spectrometer_operating_on_the_principle_of_flight_time_in_combination_with_a_quadrupole_analyzer_(qTOF)_in_CAFIA_laboratory,_Czech_Republic.jpg"
- },
- {
   "key": "li2022gut",
   "kind": "pub",
   "title": "File:Lumbar MRI t2-tse-rst-sagittal 05.jpg",
@@ -80,14 +72,6 @@
   "url": "https://commons.wikimedia.org/wiki/File:Wheat_close-up.JPG"
  },
  {
-  "key": "specht2015data",
-  "kind": "pub",
-  "title": "File:Installation of soil sensors.jpg",
-  "artist": "UBC Micrometeorology from Vancouver, Canada",
-  "license": "CC BY 2.0",
-  "url": "https://commons.wikimedia.org/wiki/File:Installation_of_soil_sensors.jpg"
- },
- {
   "key": "lai2014identification",
   "kind": "pub",
   "title": "File:The combine Claas Lexion 584 in the wheat harvest.jpg",
@@ -126,14 +110,6 @@
   "artist": "unknown",
   "license": "CC BY 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:BlacklegLeafLesions.jpg"
- },
- {
-  "key": "berkman2012nextgeneration",
-  "kind": "pub",
-  "title": "File:Illumina HiSeq 2500.jpg",
-  "artist": "Konrad F\u00f6rstner",
-  "license": "CC0",
-  "url": "https://commons.wikimedia.org/wiki/File:Illumina_HiSeq_2500.jpg"
  },
  {
   "key": "lai2012genomic",
@@ -278,5 +254,53 @@
   "artist": "OpenStax",
   "license": "CC BY 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:1319_Nerve_Structure.jpg"
+ },
+ {
+  "key": "jiang2024deep",
+  "kind": "pub",
+  "title": "File:Blausen 0301 Diabetes GlucoseMonitoring.png",
+  "artist": "BruceBlaus. When using this image in external sources it can be cited as:\n\nBlausen.com sta",
+  "license": "CC BY 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Blausen_0301_Diabetes_GlucoseMonitoring.png"
+ },
+ {
+  "key": "abadir2019scp",
+  "kind": "pub",
+  "title": "File:AML-M5B.jpg",
+  "artist": "The Armed Forces Institute of Pathology (AFIP)",
+  "license": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:AML-M5B.jpg"
+ },
+ {
+  "key": "lai2019artificial",
+  "kind": "pub",
+  "title": "File:Artificial Neural Network with Chip.png",
+  "artist": "mikemacmarketing / original posted on flickr\n\nLiam Huang / clipped and posted on flickr",
+  "license": "CC BY 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Artificial_Neural_Network_with_Chip.png"
+ },
+ {
+  "key": "specht2015data",
+  "kind": "pub",
+  "title": "File:Installation of the eddy covariance system.jpg",
+  "artist": "UBC Micrometeorology from Vancouver, Canada",
+  "license": "CC BY 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Installation_of_the_eddy_covariance_system.jpg"
+ },
+ {
+  "key": "lee2011bioinformatics",
+  "kind": "pub",
+  "title": "File:Illumina Genome Analyzer II System.jpg",
+  "artist": "Jon Callas from San Jose, USA",
+  "license": "CC BY 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Illumina_Genome_Analyzer_II_System.jpg"
+ },
+ {
+  "key": "berkman2012nextgeneration",
+  "kind": "pub",
+  "title": "File:Trial Plots - geograph.org.uk - 860787.jpg",
+  "artist": "Michael Trolove",
+  "license": "CC BY-SA 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Trial_Plots_-_geograph.org.uk_-_860787.jpg"
  }
 ]
