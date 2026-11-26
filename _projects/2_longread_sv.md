@@ -4,7 +4,7 @@ title: Long-read SVs in an unsolved family
 description: PacBio HiFi and ONT genomes, methylation and Fiber-seq
 img: assets/img/projects/2_longread_sv.jpg
 importance: 2
-category: neuropathy genomics
+category: Neuropathy genomics
 ---
 
 <figure style="float: left; width: 40%; max-width: 300px; margin: 0.3rem 1.5rem 1rem 0;">

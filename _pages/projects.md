@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Research projects and open-source tools.
 nav: true
 nav_order: 3
-display_categories: [neuropathy genomics, tools and methods]
+display_categories: [Neuropathy genomics, Tools and methods]
 horizontal: false
 ---
 

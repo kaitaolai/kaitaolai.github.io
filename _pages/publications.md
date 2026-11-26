@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Journal articles, book chapters and preprints, newest first. Full list and citations on <a href="https://scholar.google.com/citations?user=ewQhhiMAAAAJ">Google Scholar</a>.
 nav: true
 nav_order: 2

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /credits/
-title: image credits
+title: Image credits
 description: Sources and licences of the images used on this site.
 nav: false
 ---

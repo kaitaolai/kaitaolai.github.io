@@ -4,7 +4,7 @@ title: MotorPhen
 description: Testing a gait Transformer on real patients
 img: assets/img/projects/7_motorphen.jpg
 importance: 7
-category: tools and methods
+category: Tools and methods
 github: https://github.com/taowis/motorphen
 ---
 

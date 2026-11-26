@@ -4,7 +4,7 @@ title: Polygenic risk in inherited neuropathy
 description: Do common variants shift onset and severity in CMT, dHMN and HSN?
 img: assets/img/projects/0_prs.jpg
 importance: 0
-category: neuropathy genomics
+category: Neuropathy genomics
 ---
 
 <figure style="float: left; width: 40%; max-width: 300px; margin: 0.3rem 1.5rem 1rem 0;">

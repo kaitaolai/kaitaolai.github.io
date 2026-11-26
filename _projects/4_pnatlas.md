@@ -4,7 +4,7 @@ title: PNPAtlas
 description: A multiscale reference of the human peripheral nervous system
 img: assets/img/projects/4_pnatlas.jpg
 importance: 4
-category: neuropathy genomics
+category: Neuropathy genomics
 github: https://github.com/taowis/pnatlas
 ---
 

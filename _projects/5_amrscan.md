@@ -4,7 +4,7 @@ title: AMRScan
 description: Antimicrobial resistance calling with recorded provenance
 img: assets/img/projects/5_amrscan.jpg
 importance: 5
-category: tools and methods
+category: Tools and methods
 github: https://github.com/taowis/amrscan
 ---
 
