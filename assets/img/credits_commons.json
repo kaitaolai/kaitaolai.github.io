@@ -24,14 +24,6 @@
   "url": "https://commons.wikimedia.org/wiki/File:Agarplate_redbloodcells_edit.jpg"
  },
  {
-  "key": "zulhairy-liong2025novel",
-  "kind": "pub",
-  "title": "File:Blue leopards of the spinal cord.jpg",
-  "artist": "Yurvik55",
-  "license": "CC BY 4.0",
-  "url": "https://commons.wikimedia.org/wiki/File:Blue_leopards_of_the_spinal_cord.jpg"
- },
- {
   "key": "jiang2024deep",
   "kind": "pub",
   "title": "File:Liquid chromatograph with a mass spectrometer operating on the principle of flight time in combination with a quadrupole analyzer (qTOF) in CAFIA laboratory, Czech Republic.jpg",
@@ -208,14 +200,6 @@
   "url": "https://commons.wikimedia.org/wiki/File:Illumina_MiSeq_sequencer.jpg"
  },
  {
-  "key": "lai2025simomics",
-  "kind": "pub",
-  "title": "File:139 Server Room 01.jpg",
-  "artist": "Indrajit Das",
-  "license": "CC BY-SA 3.0",
-  "url": "https://commons.wikimedia.org/wiki/File:139_Server_Room_01.jpg"
- },
- {
   "key": "lai2011wheatgenome",
   "kind": "pub",
   "title": "File:Triticum aestivum subsp. aestivum MHNT.BOT.2015.2.31.jpg",
@@ -288,14 +272,6 @@
   "url": "https://commons.wikimedia.org/wiki/File:Subangular_Blocky_Soil_Aggregate_in_Spain.jpg"
  },
  {
-  "key": "berkman2011sequencing",
-  "kind": "pub",
-  "title": "File:My dancing wheat (seedling).jpg",
-  "artist": "EleftheriaSeira",
-  "license": "CC0",
-  "url": "https://commons.wikimedia.org/wiki/File:My_dancing_wheat_(seedling).jpg"
- },
- {
   "key": "5_amrscan (detail)",
   "kind": "proj",
   "title": "File:Lactose fermenting colonies of Escherichia coli.jpg",
@@ -318,5 +294,13 @@
   "artist": "D. Gordon E. Robertson",
   "license": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:EMG_-_SIMI.jpg"
+ },
+ {
+  "key": "zulhairy-liong2025novel",
+  "kind": "pub",
+  "title": "File:Anterior spinal cord - very low mag.jpg",
+  "artist": "Nephron",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Anterior_spinal_cord_-_very_low_mag.jpg"
  }
 ]
