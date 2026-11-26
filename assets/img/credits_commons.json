@@ -48,14 +48,6 @@
   "url": "https://commons.wikimedia.org/wiki/File:Red_Grapes_from_W%C3%B6lffer_Estate_Vineyard.jpg"
  },
  {
-  "key": "lai2019artificial",
-  "kind": "pub",
-  "title": "File:Athena supercomputer cluster.jpg",
-  "artist": "NASA",
-  "license": "Public domain",
-  "url": "https://commons.wikimedia.org/wiki/File:Athena_supercomputer_cluster.jpg"
- },
- {
   "key": "trivedi2019losses",
   "kind": "pub",
   "title": "File:Soil Profile Containing an Argillic Horizon.jpg",
@@ -152,14 +144,6 @@
   "url": "https://commons.wikimedia.org/wiki/File:Barley_in_Slovenia.jpg"
  },
  {
-  "key": "lai2012single",
-  "kind": "pub",
-  "title": "File:DNA Nanoball sequencing flow cell.jpg",
-  "artist": "Suspencewl",
-  "license": "CC0",
-  "url": "https://commons.wikimedia.org/wiki/File:DNA_Nanoball_sequencing_flow_cell.jpg"
- },
- {
   "key": "lorenc2012discovery",
   "kind": "pub",
   "title": "File:Field of yellow rapeseed flowers - geograph.org.uk - 5368141.jpg",
@@ -208,14 +192,6 @@
   "url": "https://commons.wikimedia.org/wiki/File:Triticum_aestivum_subsp._aestivum_MHNT.BOT.2015.2.31.jpg"
  },
  {
-  "key": "cutrupi2022novel",
-  "kind": "pub",
-  "title": "File:1319 Nerve StructureN EU.jpg",
-  "artist": "OpenStax",
-  "license": "CC BY 4.0",
-  "url": "https://commons.wikimedia.org/wiki/File:1319_Nerve_StructureN_EU.jpg"
- },
- {
   "key": "4_pnatlas",
   "kind": "proj",
   "title": "File:Peripheral nerve, cross section.jpg",
@@ -238,14 +214,6 @@
   "artist": "Bruce Wetzel (photographer). Harry Schaefer (photographer)",
   "license": "Public domain",
   "url": "https://commons.wikimedia.org/wiki/File:SEM_blood_cells.jpg"
- },
- {
-  "key": "lee2011bioinformatics",
-  "kind": "pub",
-  "title": "File:DNA sequencing interferogram.png",
-  "artist": "unknown",
-  "license": "Public domain",
-  "url": "https://commons.wikimedia.org/wiki/File:DNA_sequencing_interferogram.png"
  },
  {
   "key": "5_amrscan",
@@ -302,5 +270,13 @@
   "artist": "Nephron",
   "license": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:Anterior_spinal_cord_-_very_low_mag.jpg"
+ },
+ {
+  "key": "cutrupi2022novel",
+  "kind": "pub",
+  "title": "File:1319 Nerve Structure.jpg",
+  "artist": "OpenStax",
+  "license": "CC BY 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:1319_Nerve_Structure.jpg"
  }
 ]
