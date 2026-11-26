@@ -302,5 +302,29 @@
   "artist": "Michael Trolove",
   "license": "CC BY-SA 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:Trial_Plots_-_geograph.org.uk_-_860787.jpg"
+ },
+ {
+  "key": "lai2012single",
+  "kind": "pub",
+  "title": "File:CSIRO ScienceImage 256 Winter Wheats Lawson Variety.jpg",
+  "artist": "Plant Industry, CSIRO",
+  "license": "CC BY 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_256_Winter_Wheats_Lawson_Variety.jpg"
+ },
+ {
+  "key": "jeffries2018metagenomic",
+  "kind": "pub",
+  "title": "File:Pesticide spraying in spring.jpg",
+  "artist": "Maasaak",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Pesticide_spraying_in_spring.jpg"
+ },
+ {
+  "key": "li2018variation",
+  "kind": "pub",
+  "title": "File:Eucalyptus plantation, Kodaikanal.jpg",
+  "artist": "Aarthi Ramamurthy",
+  "license": "CC BY 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Eucalyptus_plantation,_Kodaikanal.jpg"
  }
 ]
