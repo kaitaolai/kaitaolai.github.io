@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="860" viewBox="0 0 600 860"><rect width="600" height="860" fill="#fff"/>
+<text x="20" y="40" font-family="Helvetica, Arial, sans-serif" font-size="32" font-weight="bold" fill="#222">Short reads</text>
+<text x="20" y="70" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#555">about 150 bases each</text>
+<rect x="40" y="245" width="23.4" height="13" rx="4" fill="#2f6db3"/>
+<rect x="120" y="245" width="23.4" height="13" rx="4" fill="#2f6db3"/>
+<rect x="250" y="245" width="23.4" height="13" rx="4" fill="#c0392b"/>
+<rect x="430" y="245" width="23.4" height="13" rx="4" fill="#2f6db3"/>
+<rect x="500" y="245" width="23.4" height="13" rx="4" fill="#2f6db3"/>
+<rect x="80" y="213" width="23.4" height="13" rx="4" fill="#2f6db3"/>
+<rect x="160" y="213" width="23.4" height="13" rx="4" fill="#2f6db3"/>
+<rect x="330" y="213" width="23.4" height="13" rx="4" fill="#c0392b"/>
+<rect x="460" y="213" width="23.4" height="13" rx="4" fill="#2f6db3"/>
+<rect x="535" y="213" width="23.4" height="13" rx="4" fill="#2f6db3"/>
+<rect x="30" y="181" width="23.4" height="13" rx="4" fill="#2f6db3"/>
+<rect x="140" y="181" width="23.4" height="13" rx="4" fill="#2f6db3"/>
+<rect x="205" y="181" width="23.4" height="13" rx="4" fill="#c0392b"/>
+<rect x="370" y="181" width="23.4" height="13" rx="4" fill="#c0392b"/>
+<rect x="420" y="181" width="23.4" height="13" rx="4" fill="#2f6db3"/>
+<rect x="510" y="181" width="23.4" height="13" rx="4" fill="#2f6db3"/>
+<rect x="100" y="149" width="23.4" height="13" rx="4" fill="#2f6db3"/>
+<rect x="290" y="149" width="23.4" height="13" rx="4" fill="#c0392b"/>
+<rect x="445" y="149" width="23.4" height="13" rx="4" fill="#2f6db3"/>
+<rect x="525" y="149" width="23.4" height="13" rx="4" fill="#2f6db3"/>
+<rect x="192.8" y="245" width="23.4" height="13" rx="4" fill="none" stroke="#c0392b" stroke-width="2" stroke-dasharray="4,3"/>
+<rect x="357.8" y="245" width="23.4" height="13" rx="4" fill="none" stroke="#c0392b" stroke-width="2" stroke-dasharray="4,3"/>
+<rect x="20" y="275" width="170" height="22" fill="#8a96a3"/><rect x="410" y="275" width="170" height="22" fill="#8a96a3"/>
+<rect x="190.0" y="275" width="25.5" height="22" fill="#e39b2d"/>
+<rect x="217.5" y="275" width="25.5" height="22" fill="#f3c46b"/>
+<rect x="245.0" y="275" width="25.5" height="22" fill="#e39b2d"/>
+<rect x="272.5" y="275" width="25.5" height="22" fill="#f3c46b"/>
+<rect x="300.0" y="275" width="25.5" height="22" fill="#e39b2d"/>
+<rect x="327.5" y="275" width="25.5" height="22" fill="#f3c46b"/>
+<rect x="355.0" y="275" width="25.5" height="22" fill="#e39b2d"/>
+<rect x="382.5" y="275" width="25.5" height="22" fill="#f3c46b"/>
+<text x="105.0" y="323" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#444" text-anchor="middle">unique</text>
+<text x="300.0" y="323" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#9a5b00" text-anchor="middle">repeat</text>
+<text x="495.0" y="323" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#444" text-anchor="middle">unique</text>
+<text x="20" y="367" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#333"><tspan fill="#c0392b" font-weight="bold">Red</tspan> reads fall inside the repeat and fit</text>
+<text x="20" y="395" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#333">every copy (dashed: other places the same</text>
+<text x="20" y="423" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#333">read fits). None spans the repeat, so its</text>
+<text x="20" y="451" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#333">length and contents stay unknown.</text>
+<line x1="20" y1="500" x2="580" y2="500" stroke="#ddd" stroke-width="2"/>
+<text x="20" y="550" font-family="Helvetica, Arial, sans-serif" font-size="32" font-weight="bold" fill="#222">Long reads</text>
+<text x="20" y="580" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#555">HiFi or nanopore, 10,000+ bases</text>
+<rect x="40" y="675" width="430" height="13" rx="4" fill="#1b8a7a"/><circle cx="50" cy="681.5" r="4" fill="#fff"/><circle cx="460" cy="681.5" r="4" fill="#fff"/>
+<rect x="95" y="643" width="465" height="13" rx="4" fill="#1b8a7a"/><circle cx="105" cy="649.5" r="4" fill="#fff"/><circle cx="550" cy="649.5" r="4" fill="#fff"/>
+<rect x="60" y="611" width="460" height="13" rx="4" fill="#1b8a7a"/><circle cx="70" cy="617.5" r="4" fill="#fff"/><circle cx="510" cy="617.5" r="4" fill="#fff"/>
+<rect x="20" y="705" width="170" height="22" fill="#8a96a3"/><rect x="410" y="705" width="170" height="22" fill="#8a96a3"/>
+<rect x="190.0" y="705" width="25.5" height="22" fill="#e39b2d"/>
+<rect x="217.5" y="705" width="25.5" height="22" fill="#f3c46b"/>
+<rect x="245.0" y="705" width="25.5" height="22" fill="#e39b2d"/>
+<rect x="272.5" y="705" width="25.5" height="22" fill="#f3c46b"/>
+<rect x="300.0" y="705" width="25.5" height="22" fill="#e39b2d"/>
+<rect x="327.5" y="705" width="25.5" height="22" fill="#f3c46b"/>
+<rect x="355.0" y="705" width="25.5" height="22" fill="#e39b2d"/>
+<rect x="382.5" y="705" width="25.5" height="22" fill="#f3c46b"/>
+<text x="105.0" y="753" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#444" text-anchor="middle">unique</text>
+<text x="300.0" y="753" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#9a5b00" text-anchor="middle">repeat</text>
+<text x="495.0" y="753" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#444" text-anchor="middle">unique</text>
+<text x="20" y="797" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#333">Each read is anchored in unique sequence on</text>
+<text x="20" y="825" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#333">both sides (white dots) and reads the whole</text>
+<text x="20" y="853" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#333">repeat, including any expansion or insertion.</text>
+</svg>

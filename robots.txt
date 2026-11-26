@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://kaitaolai.github.io/sitemap.xml
