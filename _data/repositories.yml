@@ -1,0 +1,11 @@
+github_users:
+  - taowis
+
+repo_description_lines_max: 2
+
+github_repos:
+  - taowis/pnprank
+  - taowis/pnatlas
+  - taowis/amrscan
+  - taowis/ngs-panel-validation
+  - taowis/motorphen

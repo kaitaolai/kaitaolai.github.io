@@ -1,0 +1,116 @@
+cv:
+  name: Kaitao Lai
+  label: Bioinformatics Research Fellow
+  location: Sydney, Australia
+  summary: Bioinformatics research fellow with ten+ years of machine learning, multi-omics and scalable pipelines in human and microbial genomics.
+  social_networks:
+    - network: LinkedIn
+      username: kaitaolai
+    - network: GitHub
+      username: taowis
+  sections:
+    Experience:
+      - company: "ANZAC Research Institute / Concord Clinical School, University of Sydney"
+        position: "Bioinformatics Hospital Scientist (Research Fellow)"
+        start_date: "2018-07"
+        end_date: "present"
+        highlights:
+          - "MRFF neuropathy genomes, re-alignment and SV calling: Re-aligning 103 whole genomes from inherited neuropathy families to GRCh38 with the hs38d1 decoy using GPU Parabricks on NCI Gadi (PBS) and a lab RTX 5090 server (68 done, about 140 SU per genome), after a GIAB HG002 benchmark showed the same SV recall with significantly fewer false SV calls (p < 0.0001) and 44% fewer false SNVs; built the group's SV workflow (Manta, smoove, TIDDIT, AnnotSV, a 356-gene panel filter and PMP22 copy number), trained the team with a workshop, and set up md5-checked, add-only backups to RDS. For a polygenic risk pilot with WEHI, jointly called 109 genomes from 73 families (17.1 million sites) with relatedness, sex and ancestry checks."
+          - "Long-read structural variants: Analysed PacBio HiFi and ONT genomes of an unsolved CMT family for SVs (Sniffles2, cuteSV), CpG methylation, tandem repeats and Fiber-seq on NCI Gadi, and reviewed 45 supported candidate alleles against ClinVar and MANE."
+          - "Neuropathy gene ranking and nerve atlas: Built PNPrank, which ranks genes for inherited peripheral neuropathy from 11 public single-cell atlases (temporal back-test AUROC 0.75 to 0.79; submitted to J Peripher Nerv Syst), and PNPAtlas (github.com/taowis/pnatlas; gene lookup), a peripheral nerve reference joining single-nucleus, spatial (44 Visium sections, 3 Xenium panels) and 670 GTEx tibial nerve samples, which improved PNPrank's AUROC from 0.771 to 0.778 (p = 0.031)."
+          - "Inherited peripheral neuropathy: Investigated novel neuropathy genes and structural variations in Charcot-Marie-Tooth disease using Hi-C, gene expression, iPSC technologies and the C. elegans model; used TAD analysis to study how a 1.35 Mb 7q36.3 insertion at the DHMN1 locus disrupts genome organisation (Brain 2023)."
+          - "t-SNE Hypergate (patent application in progress): Developed the t-SNE Hypergate analysis for platelet subpopulations (ASH 2021 abstract, Blood 138 Suppl 1; co-author): an automated pipeline for high-dimensional cytometry for cross-platform thrombotic risk prediction in Essential Thrombocythaemia."
+          - "Clinical bioinformatics: Validated a germline NGS panel pipeline to AMP/CAP, NPAAC and ISO 15189:2022, and verified a supplier software update from exported results alone."
+          - "Differential expression: Identified molecular drivers of procoagulant platelet formation, endogenous retrovirus activation and platinum resistance in lung adenocarcinoma (eLife 2021) and mesothelioma, and characterised CD300f isoforms as an antibody target in acute myeloid leukaemia."
+          - "Transformer model for gait (MotorPhen): Trained a 10-million-parameter Transformer from scratch in PyTorch on a CUDA GPU server, reimplementing a published gait anomaly detection model whose code is not public, as groundwork for genotype-informed gait phenotyping in inherited neuropathy."
+          - "Communication and support: Turned biological questions into computational work for international research teams, reported results to clinicians through interactive dashboards (Python, R, JavaScript), and restored the laboratory's ORBiT long-read RNA-seq pipeline (Nextflow, Singularity)."
+      - company: "Hypercube Scientific, St Leonards NSW"
+        position: "Data (AI) Engineer"
+        start_date: "2026-02"
+        end_date: "2026-03"
+        highlights:
+          - "Used Snowflake to integrate and analyse pharmaceutical sales data from more than 500 Chemist Warehouse outlets across Australia; worked with IQVIA and PharmX on data pipelines and demand forecasting models, including a LangChain analytics system (EWMA and Croston's method)."
+      - company: "Transplant Genomics Group, Westmead Institute for Medical Research (WIMR), USyd"
+        position: "Bioinformatician / Postdoctoral Researcher"
+        start_date: "2024-03"
+        end_date: "2025-03"
+        highlights:
+          - "MRFF kidney transplant genomics: Led the end-to-end computational pipeline for a $2M MRFF-funded project, processing multi-omics data from 500+ donor-recipient pairs; Random Forest, XGBoost and deep learning models improved clearly on baseline outcome prediction."
+          - "GraftMatch (source available on request): Built the donor-recipient genomic mismatch analyser with FDR-adjusted testing and clinical visualisation dashboards; now rebuilt as a Python and Nextflow pipeline that computes published mismatch scores (nsSNP-tms, nsSNP-tcmsk) from whole-genome data on PBS and Slurm clusters, with unit tests and CI."
+          - "HPC performance and modelling: Optimised HPC pipelines for 10TB+ genomic datasets, cutting compute time by 60% through parallel processing; applied AlphaFold to CAR-T cell structure-function prediction with Dr. Qi Cao's group."
+      - company: "Ancestry & Health Genomics Laboratory, University of Sydney"
+        position: "Bioinformatics Research Fellow"
+        start_date: "2021-06"
+        end_date: "2023-11"
+        highlights:
+          - "Deep WGS pipelines: Built scalable Python pipelines for 2TB+ of deep WGS tumour-blood paired samples, with automated quality control and error detection, to study pathogen-microbiome correlations in prostate cancer."
+          - "Pathogen associations: Identified bacterial and viral pathogen associations with prostate cancer severity, and applied ML, perMANOVA and ANOSIM to geo-ethnic disparities in aggressive disease, within a US Department of Defense PCRP HEROIC Award collaboration (US$1.3M)."
+      - company: "CSIRO Transformational Bioinformatics Group, North Ryde"
+        position: "Postdoctoral Research Fellow"
+        start_date: "2017-02"
+        end_date: "2018-05"
+        highlights:
+          - "Engineered a CRISPR-Cas12a guide RNA activity predictor (Random Forests and ensemble methods, 86% accuracy) and cloud applications on AWS Lambda and Apache Spark; H&B Award 2017 for Outstanding Collaboration."
+      - company: "Hawkesbury Institute for the Environment, Western Sydney University"
+        position: "Research Fellow in Bioinformatics"
+        start_date: "2015-05"
+        end_date: "2017-01"
+        highlights:
+          - "Developed TaxaCloud, an elastic AWS platform with a web application that lets non-IT researchers run microbiome analysis; pangenome analysis of honey bee ecotypes and bee viral genomes for the AUD $7M Horticulture Innovation Award project."
+      - company: "TERN (UQ); Bayer CropScience (Ghent); ACPFG (UQ)"
+        position: "Earlier Research-Aligned Roles"
+        start_date: "2009"
+        end_date: "2014"
+        highlights:
+          - "Software Engineer at TERN (research data management with DOI minting), Genetics Intern at Bayer CropScience (SGSautoSNP variant discovery) and Research Assistant at ACPFG (Brassica NGS analysis); earlier enterprise software roles (2007 to 2009) on request."
+    Skills:
+      - name: "Languages"
+        keywords: "Python, R, SQL, Bash, Java, JavaScript"
+      - name: "Genomics and NGS"
+        keywords: "WGS, exome, RNA-seq, single-cell and single-nucleus RNA-seq, Hi-C / TAD, long-read and metagenomic sequencing; BWA-MEM, minimap2, GATK, DeepVariant, Clair3, Sniffles2; DESeq2, edgeR, Harmony; minfi, SeSAMe; AMRFinderPlus, Kraken2, QIIME 2"
+      - name: "Statistical genetics"
+        keywords: "GWAS, cis-eQTL/pQTL, Mendelian randomisation, colocalisation, polygenic scores, phylogenetics, population structure"
+      - name: "Clinical quality and validation"
+        keywords: "AMP/CAP, NPAAC, ISO 15189:2022, GIAB benchmarking (RTG vcfeval), change control, supplier update verification; familiar with SOPHiA DDM, DRAGEN, Emedgene, QCI and Alamut Visual"
+      - name: "Workflow, HPC and reproducibility"
+        keywords: "Nextflow, Snakemake, PBS on NCI Gadi; Docker, Apptainer, Conda, renv; pytest, testthat, GitHub Actions CI"
+      - name: "ML, statistics and data"
+        keywords: "PyTorch (Transformers, CUDA and MPS), scikit-learn, TensorFlow, XGBoost, SHAP; PCA, t-SNE, perMANOVA, FDR control; Pandas, PostgreSQL, FastAPI; AWS, Azure; LangChain, RAG (supplementary)"
+    Education:
+      - institution: The University of Queensland
+        area: Bioinformatics
+        studyType: Ph.D.
+        start_date: 2010
+        end_date: 2015
+        highlights:
+          - "Thesis: Genome diversity in Triticum aestivum (supervisors Prof. David Edwards, A/Prof. Jacqueline Batley, Dr. Jiri Stiller)"
+      - institution: Griffith University
+        area: Information and Communication Technology
+        studyType: Master
+        start_date: 2005
+        end_date: 2006
+      - institution: The University of Queensland
+        area: Information Technology
+        studyType: Master
+        start_date: 2004
+        end_date: 2005
+      - institution: The University of Queensland
+        area: Research Commercialisation
+        studyType: Graduate Certificate
+        start_date: 2011
+        end_date: 2012
+      - institution: Shenzhen University
+        area: Applied Chemistry
+        studyType: B.Sc. (Honours)
+        start_date: 1998
+        end_date: 2002
+    Awards:
+      - title: H&B Award for Outstanding Collaboration
+        awarder: CSIRO
+        date: 2017
+      - title: APAI Scholarship (2010 to 2013)
+        awarder: Australian Research Council
+        date: 2010
+      - title: Travel awards
+        awarder: AGTA (2017, 2019), CRGH (2019), GRDC and UQ SAFS (2012)
+        date: 2019
