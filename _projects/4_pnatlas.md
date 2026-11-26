@@ -10,7 +10,7 @@ github: https://github.com/taowis/pnatlas
 
 <figure style="float: left; width: 40%; max-width: 300px; margin: 0.3rem 1.5rem 1rem 0;">
   <img src="{{ '/assets/img/projects/detail/4_pnatlas.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="A spinal (dorsal root) ganglion, stained with H&E: the sensory neurons whose cell states PNPAtlas maps.">
-  <figcaption class="caption text-left">A spinal (dorsal root) ganglion, stained with H&E: the sensory neurons whose cell states PNPAtlas maps.</figcaption>
+  <figcaption class="caption text-left">A spinal (dorsal root) ganglion, stained with H&E: the sensory neurons whose cell states PNPAtlas maps.<br><small>Image: Merlin-UK, <a href="https://commons.wikimedia.org/wiki/File:SFEC-2012-EXP-DOG-SPINAL_GANGLION-H%26E007.JPG" target="_blank" rel="noopener">Wikimedia Commons</a>, CC BY-SA 3.0.</small></figcaption>
 </figure>
 
 Peripheral neuropathy can start in the neuron body, which sits in a ganglion next to the spinal cord, or along the axon and its Schwann cells, which can run a metre down the leg. Public single-cell data now exist for both places, but mostly as separate studies with different labels and methods, which makes it hard to ask in which cells a neuropathy gene is active.

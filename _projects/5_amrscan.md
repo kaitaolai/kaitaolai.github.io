@@ -10,7 +10,7 @@ github: https://github.com/taowis/amrscan
 
 <figure style="float: left; width: 40%; max-width: 300px; margin: 0.3rem 1.5rem 1rem 0;">
   <img src="{{ '/assets/img/projects/detail/5_amrscan.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Lactose-fermenting <i>Escherichia coli</i> colonies on agar.">
-  <figcaption class="caption text-left">Lactose-fermenting <i>Escherichia coli</i> colonies on agar.</figcaption>
+  <figcaption class="caption text-left">Lactose-fermenting <i>Escherichia coli</i> colonies on agar.<br><small>Image: Ajay Kumar Chaurasiya, <a href="https://commons.wikimedia.org/wiki/File:Lactose_fermenting_colonies_of_Escherichia_coli.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>, CC0.</small></figcaption>
 </figure>
 
 Antimicrobial resistance (AMR) can now be predicted from a bacterial genome, but a prediction is only as good as the record behind it: which tool, which database release, which input file. AMRScan makes that record part of the result.

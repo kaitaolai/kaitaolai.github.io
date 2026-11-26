@@ -9,8 +9,8 @@ github: https://github.com/taowis/pnprank
 ---
 
 <figure style="float: left; width: 40%; max-width: 300px; margin: 0.3rem 1.5rem 1rem 0;">
-  <img src="{{ '/assets/img/projects/detail/3_pnprank.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Immature Schwann cells along nerve fibres, stained for NGFR.">
-  <figcaption class="caption text-left">Immature Schwann cells along nerve fibres, stained for NGFR.</figcaption>
+  <img src="{{ '/assets/img/projects/detail/3_pnprank.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Immature Schwann cells (NGFR staining) along nerve fibres beside the spiral ganglion of the human fetal cochlea.">
+  <figcaption class="caption text-left">Immature Schwann cells (NGFR staining) along nerve fibres beside the spiral ganglion of the human fetal cochlea.<br><small>Image: Figure 6 of Locher H, de Groot JCMJ, van Iperen L, et al. (2014) Distribution and development of peripheral glial cells in the human fetal cochlea. <i>PLoS ONE</i> 9(1): e88066, <a href="https://doi.org/10.1371/journal.pone.0088066" target="_blank" rel="noopener">doi:10.1371/journal.pone.0088066</a>, CC BY 4.0. Cropped.</small></figcaption>
 </figure>
 
 More than a hundred genes are known to cause inherited peripheral neuropathy, and new ones are still found every year, yet many families remain without a diagnosis. When exome or genome sequencing leaves a family with dozens of rare variants in genes of unknown function, a ranked list of which genes look most like neuropathy genes helps decide where to look first.

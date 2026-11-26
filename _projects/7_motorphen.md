@@ -10,7 +10,7 @@ github: https://github.com/taowis/motorphen
 
 <figure style="float: left; width: 40%; max-width: 300px; margin: 0.3rem 1.5rem 1rem 0;">
   <img src="{{ '/assets/img/projects/detail/7_motorphen.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Recording muscle activity during movement analysis.">
-  <figcaption class="caption text-left">Recording muscle activity during movement analysis.</figcaption>
+  <figcaption class="caption text-left">Recording muscle activity during movement analysis.<br><small>Image: D. Gordon E. Robertson, <a href="https://commons.wikimedia.org/wiki/File:EMG_-_SIMI.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>, CC BY-SA 3.0.</small></figcaption>
 </figure>
 
 Inherited neuropathies change how people walk, and different genes may leave different marks on gait. Linking genotype to gait needs a way to say which joint departs from normal walking, and by how much, in each person. MotorPhen is groundwork for that.

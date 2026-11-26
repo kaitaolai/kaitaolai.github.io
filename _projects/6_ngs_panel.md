@@ -10,7 +10,7 @@ github: https://github.com/taowis/ngs-panel-validation
 
 <figure style="float: left; width: 40%; max-width: 300px; margin: 0.3rem 1.5rem 1rem 0;">
   <img src="{{ '/assets/img/projects/detail/6_ngs_panel.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Pipetting DNA in a genomics laboratory (National Human Genome Research Institute).">
-  <figcaption class="caption text-left">Pipetting DNA in a genomics laboratory (National Human Genome Research Institute).</figcaption>
+  <figcaption class="caption text-left">Pipetting DNA in a genomics laboratory (National Human Genome Research Institute).<br><small>Image: Maggie Bartlett, NHGRI, <a href="https://commons.wikimedia.org/wiki/File:NHGRI_researcher_uses_a_pipette_to_remove_DNA_from_a_micro_test_tube.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>, Public domain.</small></figcaption>
 </figure>
 
 Before a clinical genetics laboratory reports variants from a sequencing pipeline, it has to show that the pipeline finds the variants that are really there and does not report ones that are not. In Australia this is assessed against ISO 15189:2022 and the NPAAC requirements for massively parallel sequencing. This project carries out that validation openly, end to end, the way a diagnostic laboratory would document it.
