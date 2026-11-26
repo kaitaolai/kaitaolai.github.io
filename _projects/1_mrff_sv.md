@@ -2,6 +2,7 @@
 layout: page
 title: SV calling in neuropathy genomes
 description: Re-aligning 103 MRFF whole genomes and calling structural variants
+img: assets/img/projects/1_mrff_sv.jpg
 importance: 1
 category: neuropathy genomics
 ---

@@ -2,6 +2,7 @@
 layout: page
 title: Germline NGS panel validation
 description: A clinical-style validation of a 31-gene panel pipeline
+img: assets/img/projects/6_ngs_panel.jpg
 importance: 6
 category: tools and methods
 github: https://github.com/taowis/ngs-panel-validation

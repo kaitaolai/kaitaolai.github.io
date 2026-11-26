@@ -2,6 +2,7 @@
 layout: page
 title: PNPrank
 description: Ranking neuropathy genes from public single-cell atlases
+img: assets/img/projects/3_pnprank.jpg
 importance: 3
 category: neuropathy genomics
 github: https://github.com/taowis/pnprank
