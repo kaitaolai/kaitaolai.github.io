@@ -1,0 +1,32 @@
+# repository cards on the repositories page: image from the repository itself where it has one
+- name: pnprank
+  fit: banner
+  url: https://github.com/taowis/pnprank
+  image: assets/img/repos/pnprank.svg
+  description: "Ranking candidate genes for inherited peripheral neuropathy from public single-cell atlases, with a temporal back-test"
+  language: Python
+- name: pnatlas
+  fit: cover
+  url: https://github.com/taowis/pnatlas
+  image: assets/img/repos/pnatlas.jpg
+  description: "Multiscale reference of human peripheral nervous system cell states: ganglia and nerve single-cell, spatial, GTEx bulk and neuropathy genetics"
+  language: Python
+- name: amrscan
+  fit: banner
+  url: https://github.com/taowis/amrscan
+  image: assets/img/repos/amrscan.svg
+  description: "AMRScan: Nextflow workflow for AMR determinant calling with AMRFinderPlus, provenance and harmonized output, plus an NCBI Pathogen Detection AST dataset builder"
+  language: HTML
+  homepage: https://taowis.github.io/amrscan/
+- name: ngs-panel-validation
+  fit: cover
+  url: https://github.com/taowis/ngs-panel-validation
+  image: assets/img/repos/ngs-panel-validation.jpg
+  description: "Validation and change control of a germline NGS panel pipeline (BWA-MEM, GATK) against GIAB reference samples, documented the way a diagnostic laboratory would"
+  language: Python
+- name: motorphen
+  fit: contain
+  url: https://github.com/taowis/motorphen
+  image: assets/img/repos/motorphen.gif
+  description: "Open reimplementation and evaluation of a normative gait model for joint-level motor phenotyping"
+  language: Python
