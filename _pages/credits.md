@@ -34,7 +34,6 @@ Cropped and resized; each links to its Commons page with the full licence.
 | project card: Long-read SVs in an unsolved family | [MinION portable sequencer.png](https://commons.wikimedia.org/wiki/File:MinION_portable_sequencer.png) | Mongan A.E. | CC BY 4.0 |
 | project page: Long-read SVs in an unsolved family | [SequelSmrtCell.jpg](https://commons.wikimedia.org/wiki/File:SequelSmrtCell.jpg) | Owlmonkey | CC BY-SA 4.0 |
 | project card: PNPrank | [1318b Dorsal Root Ganglion.jpg](https://commons.wikimedia.org/wiki/File:1318b_Dorsal_Root_Ganglion.jpg) | OpenStax | CC BY 4.0 |
-| project page: PNPrank | [Immature Schwann cells along the peripheral processes express NGFR.png](https://commons.wikimedia.org/wiki/File:Immature_Schwann_cells_along_the_peripheral_processes_express_NGFR.png) | Locher H, de Groot JCMJ, van Iperen L, Huisman MA, Frijns JHM, Chuva de Sousa Lopes SM | CC BY 4.0 |
 | project card: PNPAtlas | [Peripheral nerve, cross section.jpg](https://commons.wikimedia.org/wiki/File:Peripheral_nerve,_cross_section.jpg) | unknown | CC BY-SA 3.0 |
 | project page: PNPAtlas | [SFEC-2012-EXP-DOG-SPINAL GANGLION-H&E007.JPG](https://commons.wikimedia.org/wiki/File:SFEC-2012-EXP-DOG-SPINAL_GANGLION-H%26E007.JPG) | Merlin-UK | CC BY-SA 3.0 |
 | project card: AMRScan | [Antibiotic sensitivity testing.jpg](https://commons.wikimedia.org/wiki/File:Antibiotic_sensitivity_testing.jpg) | Bondarev.gal | CC BY 4.0 |
