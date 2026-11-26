@@ -302,5 +302,77 @@
   "artist": "EleftheriaSeira",
   "license": "CC0",
   "url": "https://commons.wikimedia.org/wiki/File:My_dancing_wheat_(seedling).jpg"
+ },
+ {
+  "key": "0_prs (detail)",
+  "kind": "proj",
+  "title": "File:WEHI-side.jpg",
+  "artist": "Schutz",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:WEHI-side.jpg"
+ },
+ {
+  "key": "2_longread_sv (detail)",
+  "kind": "proj",
+  "title": "File:SequelSmrtCell.jpg",
+  "artist": "Owlmonkey",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:SequelSmrtCell.jpg"
+ },
+ {
+  "key": "3_pnprank (detail)",
+  "kind": "proj",
+  "title": "File:Immature Schwann cells along the peripheral processes express NGFR.png",
+  "artist": "Locher H, de Groot JCMJ, van Iperen L, Huisman MA, Frijns JHM, Chuva de Sousa Lopes SM",
+  "license": "CC BY 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Immature_Schwann_cells_along_the_peripheral_processes_express_NGFR.png"
+ },
+ {
+  "key": "5_amrscan (detail)",
+  "kind": "proj",
+  "title": "File:Lactose fermenting colonies of Escherichia coli.jpg",
+  "artist": "Ajay Kumar Chaurasiya",
+  "license": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:Lactose_fermenting_colonies_of_Escherichia_coli.jpg"
+ },
+ {
+  "key": "6_ngs_panel (detail)",
+  "kind": "proj",
+  "title": "File:NHGRI researcher uses a pipette to remove DNA from a micro test tube.jpg",
+  "artist": "Maggie Bartlett, NHGRI",
+  "license": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:NHGRI_researcher_uses_a_pipette_to_remove_DNA_from_a_micro_test_tube.jpg"
+ },
+ {
+  "key": "0_prs",
+  "kind": "proj",
+  "title": "File:DNA microarray chip.jpg",
+  "artist": "ErikAbner",
+  "license": "CC BY 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:DNA_microarray_chip.jpg"
+ },
+ {
+  "key": "1_mrff_sv (detail)",
+  "kind": "proj",
+  "title": "File:National Computational Infrastructure Building, Canberra, 2022, 03.jpg",
+  "artist": "Kgbo",
+  "license": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:National_Computational_Infrastructure_Building,_Canberra,_2022,_03.jpg"
+ },
+ {
+  "key": "7_motorphen (detail)",
+  "kind": "proj",
+  "title": "File:EMG - SIMI.jpg",
+  "artist": "D. Gordon E. Robertson",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:EMG_-_SIMI.jpg"
+ },
+ {
+  "key": "4_pnatlas (detail)",
+  "kind": "proj",
+  "title": "File:SFEC-2012-EXP-DOG-SPINAL GANGLION-H&E007.JPG",
+  "artist": "Merlin-UK",
+  "license": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:SFEC-2012-EXP-DOG-SPINAL_GANGLION-H%26E007.JPG"
  }
 ]

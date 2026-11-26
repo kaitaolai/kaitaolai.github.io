@@ -2,7 +2,8 @@ cv:
   name: Kaitao Lai
   label: Bioinformatics Research Fellow
   location: Sydney, Australia
-  summary: Bioinformatics research fellow with ten+ years of machine learning, multi-omics and scalable pipelines in human and microbial genomics.
+  summary: >-
+    Bioinformatics research fellow with more than ten years in human, microbial and plant genomics, combining machine learning, multi-omics and pipelines that run at scale. I have worked with clinicians and laboratory scientists at the ANZAC Research Institute and the University of Sydney, the Westmead Institute for Medical Research and CSIRO, and have published 30 peer-reviewed papers (3,033 citations, h-index 23), including contributions in *Brain*, *eLife* and *Advanced Science*. <br><br> At the ANZAC Research Institute I work on inherited peripheral neuropathy: re-aligning 103 whole genomes and calling structural variants on NCI Gadi and a GPU server, a polygenic risk pilot with WEHI on 109 jointly called genomes, long-read analysis of an unsolved family, and PNPrank, which ranks candidate genes from public single-cell atlases. I have also validated a germline NGS panel pipeline against AMP/CAP, NPAAC and ISO 15189:2022, and trained a Transformer model from scratch and tested it on stroke patients against clinical baselines. <br><br> I fix analysis plans before seeing results, benchmark against known truth sets such as GIAB, record the provenance of every run, and release code openly. Day to day I work in Python, R, Nextflow, Snakemake, PBS and containers on 10 TB+ datasets, and in PyTorch for deep learning.
   social_networks:
     - network: LinkedIn
       username: kaitaolai
