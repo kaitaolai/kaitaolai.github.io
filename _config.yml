@@ -11,6 +11,11 @@ contact_note: >
   The best way to reach me is through LinkedIn.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Kaitao Lai, Ph.D., bioinformatics research fellow: computational genomics, structural variants, multi-omics and machine learning.
+nav_external:
+  - title: AI portfolio
+    url: https://kaitaolai.github.io/ai/
+  - title: Data portfolio
+    url: https://kaitaolai.github.io/data/
 footer_text: >
   <a href="/credits/">Image credits</a>. <a href="https://kaitaolai.github.io/ai/">AI engineering portfolio</a>. <a href="https://kaitaolai.github.io/data/">Data engineering portfolio</a>.
 keywords: bioinformatics, computational genomics, structural variants, inherited peripheral neuropathy, machine learning, multi-omics
